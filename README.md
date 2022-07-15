@@ -1,2 +1,2 @@
 # internship-hilifeai
-hilifeai company is very good
+TASK 1 IN THE INTERNSHIP AT HILIFE.AI

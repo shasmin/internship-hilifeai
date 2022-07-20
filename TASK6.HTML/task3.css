@@ -1,0 +1,24 @@
+body{
+    background-image: url("https://cdn.britannica.com/19/12819-004-3DF30309/clipper-Flying-Cloud.jpg");
+}
+.color1{
+    color:blue;
+    text-align: center;
+}
+.color2{
+    color: crimson;
+    text-align: right;
+}
+.color3{
+    color: indigo;
+    text-align: left;
+}
+.color4{
+    color: chartreuse;
+}
+.color5{
+    color: rgb(226, 43, 217);
+}
+.color6{
+    color:rgb(192, 11, 11);
+}

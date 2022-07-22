@@ -1,9 +1,37 @@
+.colo3{
+    color: rgb(15, 25, 163);
+}
+.color4{
+    color: rgb(53, 9, 88);
+}
 .color5{
-    background-color: aqua;
+    color: rgb(28, 141, 79);
 }
 .color6{
-    background-color: blueviolet;
+    color: rgb(117, 10, 10);
 }
-.color9{
-    background-color: aquamarine;
+. color9{
+    background-color: rgb(61, 110, 12);
+}
+.color8{
+    background-color: rgb(114, 88, 21);
+}
+.color7{
+    background-color: rgb(4, 48, 49);
+}
+.color10{
+    background-color: rgb(54, 3, 54);
+}
+. color11{
+    background-color: rgb(7, 2, 2);
+}
+. color12{
+    background-color: rgb(38, 48, 11);
+}
+. color13{
+    background-color: darkcyan;
+}
+. color14{
+    background-color: darkgreen;
+    text-align: cente;
 }

@@ -1,0 +1,12 @@
+.color2{
+    background-image: linear-gradient(rgb(144, 194, 223),rgb(4, 4, 238));
+  }
+  .color3{
+    background-image: linear-gradient(rgb(223, 130, 130),rgb(224, 13, 13));
+  }
+  .color4{
+    background-image: linear-gradient(rgb(180, 45, 174),rgb(73, 3, 62));
+    }
+  .strong1{
+    color: aqua;
+  }

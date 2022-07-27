@@ -1,0 +1,23 @@
+body{
+  background-image: url("2090289.jpg");
+}
+.color1{
+  text-align: center;
+  color: rgb(7, 7, 7);
+}
+.color2{
+  text-align: center;
+  color: rgb(0, 0, 0);
+}
+.color3{
+  color: rgb(0, 0, 0);
+  text-align: right;
+  padding: 35px;
+}
+.color4{
+  text-align: right;
+}
+.color5{
+  float: right;
+  padding: 20px;
+}
